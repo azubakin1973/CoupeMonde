@@ -4,6 +4,7 @@ public class Joueur {
     private boolean aSouafle;
 
     private static int compteurJoueur = 1;
+    private String Raphael;
 
     public Joueur(String prenom) {
         this.prenom = prenom;
